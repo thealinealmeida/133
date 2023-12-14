@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+span{
+    font-size: 20px;
+    color:red;
+}
+canvas{
+    background:-o-linear-gradient(rgb(239, 239, 244),rgb(255, 229, 173))
+}
